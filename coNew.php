@@ -9,7 +9,7 @@
 <form action="coAdd.php" method="POST" class="nform">
 <table class="myId" >
 <tr>
-<td><label for="name">Name</label></td>
+<td><label for="name"> Company Name</label></td>
 <td><input type="text" name="name" id="name" placeholder="name"></td>
 </tr>
 
